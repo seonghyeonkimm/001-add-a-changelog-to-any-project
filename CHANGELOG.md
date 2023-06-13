@@ -1,5 +1,7 @@
 
 
+## [1.3.1](https://github.com/seonghyeonkimm/001-add-a-changelog-to-any-project/compare/1.3.0...1.3.1) (2023-06-13)
+
 ## 1.3.0 (2023-06-13)
 
 
